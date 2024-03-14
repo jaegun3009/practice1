@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "IBN flex Sans";
+    src: url("./IBMPlexSansKR-Medium.ttf");
+}
+.title { 
+    font-family : "IBN flex Sans";
+    padding :10px;
+    background-color: rgb(216,190,255);
+    border: 10px solid rgb(138, 219, 138);
+    color: yellow;
+    text-align: center;
+}
+.title:hover {
+    color : red
+}
